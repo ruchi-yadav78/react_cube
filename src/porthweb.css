@@ -171,22 +171,27 @@ li:hover a{
     font-weight: 600;
     margin-top: 12px;
 }
-button.hero-btn {
+.hero-btn {
     font-size: 17px;
     font-weight: 600;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
     height: 55px;
     margin-top: 27px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 172px;
     border: 3px solid white;
     background-color: #1caad8;
 }
 .hero-btn:hover{
-    background-color: white;
+    background-color: rgb(133, 120, 120);
     height: 55px;
-    color: deeppink;
-    border: 3px solid #1caad8;
+    width: 172px;
+    color: white;
+    transition: 3s;
+    border: 3px solid white;
 }
 .hero-sec2 {
     /* height: 380px; */
@@ -389,9 +394,9 @@ button.hero-btn {
         font-size: 33px;
         margin-top: 0;
     }
-    button.hero-btn{
+    .hero-btn{
         height: 50px;
-        margin-top: 25px;
+        margin: 25px auto 0 auto;
         width: 135px;
     }
     .hero-sec2{
@@ -469,9 +474,9 @@ button.hero-btn {
         font-size: 33px;
         margin-top: 0;
     }
-    button.hero-btn{
+    .hero-btn{
         height: 50px;
-        margin-top: 25px;
+        margin: 25px auto 0 auto;
         width: 135px;
     }
     .hero-sec2{
@@ -541,14 +546,14 @@ button.hero-btn {
     .hero-tag2 {
         font-size: 46px;
     }
-    button.hero-btn{
+    .hero-btn{
         width: 165px;
         height: 51px;
     }
     span.index-module_type__E-SaG {
         font-size: 37px !important;
     }
-    button.hero-btn{
+    .hero-btn{
         width: 165px;
         height: 51px;
         font-size: 15px;

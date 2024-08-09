@@ -80,7 +80,7 @@ const MyComponent = () => {
         repeat={Infinity}
         />
           </div>
-          <button className='hero-btn'>Download cv</button>
+          <div className='hero-btn'><a href='./Ruchi yadav (2).pdf' download>Download  <i class="fa-solid fa-download"></i></a></div>
 
         </div>
         <div className='hero-sec2' data-aos="zoom-in-up">

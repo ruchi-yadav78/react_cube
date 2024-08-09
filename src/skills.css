@@ -5,6 +5,7 @@
 .skills-main{
     background-color: #2d2a2a;
     padding: 70px 50px;
+    overflow: hidden;
     border-bottom: 1px solid gray;
 }
 .skills-sec h1 {

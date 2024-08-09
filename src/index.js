@@ -16,7 +16,10 @@ import Aboutpages from './aboutpages';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+     basename:"/react_cube"
+  },
+  {
+    path: "/react_cube",
     element: <Allpages />
   },
   {

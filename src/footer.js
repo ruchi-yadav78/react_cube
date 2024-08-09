@@ -45,10 +45,10 @@ export default function Footer() {
         <div class="footer-section footer-cta">
             <h3>Stay Connected</h3>
             <div class="social-icons">
-            <a href='https://api.whatsapp.com/qr/LMM5S67YT37GJ1?autoload=1&app_absent=0' target="_blank" class="social-icon" aria-label="Facebook"><i class="fa-brands fa-whatsapp"></i></a>
-                <a href="https://twitter.com" target="_blank" class="social-icon" aria-label="Twitter"><i class="fab fa-linkedin-in"></i></a>
+                <a href='https://api.whatsapp.com/qr/LMM5S67YT37GJ1?autoload=1&app_absent=0' target="_blank" class="social-icon" aria-label="Facebook"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="https://www.linkedin.com/in/ruchi-yadav-14a46131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="social-icon" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
                 <a href='https://www.instagram.com/yadav_ruchi0804/?utm_source=qr&igsh=MXZ4cnAwbng2dnZuaw%3D%3D' target="_blank" class="social-icon" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="https://linkedin.com" target="_blank" class="social-icon" aria-label="LinkedIn"><i class="fa-brands fa-github"></i></a>
+                <a href="https://ruchi-yadav78.github.io/react_cube/" target="_blank" class="social-icon" aria-label="LinkedIn"><i class="fa-brands fa-github"></i></a>
             </div>
         </div>
     </div>
