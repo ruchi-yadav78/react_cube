@@ -87,10 +87,10 @@ const Projects = () => {
           </SwiperSlide>
           <SwiperSlide>
             <div
-              className="swiper-slide" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000"><img src='./image/p6.png'></img>
+              className="swiper-slide" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000"><img src='./image/craftycode.png'></img>
                <div className='project-detail'>
                 <div className='hover-cont'>
-                <div className='hover-tag'>FORM VALIDATION</div>
+                <div className='hover-tag'>Craftycode</div>
                 <span>View Website</span>
                 </div>
                 </div>
